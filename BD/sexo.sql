@@ -4,7 +4,6 @@ GO
 /****** Object:  Table [dbo].[sexo]    Script Date: 16/09/2021 17:47:01 ******/
 SET ANSI_NULLS ON
 GO
-
 SET QUOTED_IDENTIFIER ON
 GO
 
